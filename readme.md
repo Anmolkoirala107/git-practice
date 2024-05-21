@@ -8,5 +8,6 @@
 
   pip install -r requirement.txt
 '''
-![git demo](.HERO/gitsss.jpg/)
+![git demo](./screenshot/gitss.jpg/)
+
 
